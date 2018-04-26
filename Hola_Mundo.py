@@ -2,3 +2,6 @@
 
 def HolaMundo():
 	print 'Hola Mundo'
+
+#Llamar la funcion creada:
+HolaMundo()
